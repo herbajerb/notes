@@ -1,0 +1,5 @@
+ - Molecules with a [[Charge]]
+ - Often very Reactive
+ - [[Metal]] often has positive charge on Ions
+ - [[Nonmetal]] often has negative charge on ions 
+ - [[Hydrogen]] can have both

@@ -1,0 +1,5 @@
+- Type of [[Balanced Equations]]
+- Show ions as separate particles in an aqueous solution
+- Easily Identifies [[Spectator Ions]] and [[Ions]] in General
+- Shows [[Law of Conservation of Mass]] and [[Law of Conservation of Energy]]
+- Example: $$2Na^+_{aq} + 2OH^-_{aq} + Cu^{2+}_{aq} + SO_{4(aq)}^{2-} \rightarrow 2Na^+_{aq} + SO_{4(aq)}^{2-} + Cu(OH)_{2(s)}$$

@@ -1,0 +1,2 @@
+- What happens when mixing two [[Aqueous]] solutions together and a [[Precipitate]] forms
+	- There must be a [[Precipitate]] forming otherwise a reaction did not happen

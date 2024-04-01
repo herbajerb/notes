@@ -1,0 +1,1 @@
+- Mass can be neither created nor destroyed

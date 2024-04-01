@@ -1,0 +1,6 @@
+ - Represent [[Physical Change]] and [[Chemical Change]]
+ - [[Method to Balance Equations]]
+ - Shows [[Law of Conservation of Mass]] and [[Law of Conservation of Energy]]
+ - Example: 
+	 - $$H_2O_{(s)}\rightarrow H_2O_{(l)}$$
+	 - $$2H_{2(g)} +O_{2g}\rightarrow 2H_2O_{(l)}$$

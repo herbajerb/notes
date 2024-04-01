@@ -1,0 +1,3 @@
+ - Specific type of [[Ions]]
+ - Refers to ions that are not reacting in a [[Complete Ionic Equations]]
+ - 

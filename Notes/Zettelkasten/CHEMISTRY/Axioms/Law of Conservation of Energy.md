@@ -1,0 +1,1 @@
+ - Energy can be neither created nor destroyed

@@ -1,0 +1,5 @@
+- Absolute value of energy amount carried by 1 [[Electron]]
+- Defined as $1.60217663\times10^{-19}$ coulombs
+- [[Proton]] carry +1 Charge
+- [[Electron]] carry -1 Charge
+- [[Neutron]] Carry 0 Charge

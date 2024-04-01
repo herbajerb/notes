@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "a67722f09f7a846f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ad7d200af9d3edc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d63773d963e287aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHEMISTRY/Integrated Rate Law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96a06e6a50bd225c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9245dfdb3656c773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73b7a4b9e10d778f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "993fa4321aed0fdb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93c22cf74a122296",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c958c291e500b99a",
+    "type": "split",
+    "children": [
+      {
+        "id": "916deaa488cd020f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "724ec2a9a3fb5638",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CHEMISTRY/Integrated Rate Law.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4f33902c3bed2dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CHEMISTRY/Integrated Rate Law.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b99a174c802bd2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8427060a4a9c9abf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CHEMISTRY/Integrated Rate Law.md"
+              }
+            }
+          },
+          {
+            "id": "c4a110a18277ae25",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3021b33336c1e053",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d63773d963e287aa",
+  "lastOpenFiles": [
+    "CHEMISTRY/Unit 4/4.4 Physical & Chemical Changes.md",
+    "home/Jason/git/notes/README.md",
+    "home/Jason/git/notes",
+    "home/Jason/git",
+    "home/Jason",
+    "home",
+    "CHEMISTRY/Integrated Rate Law.md",
+    "CHEMISTRY/Unit 4/4.3 Representations of Reactions.md",
+    "CHEMISTRY/Unit 4/4.2 Net Ionic Equations.md",
+    "CHEMISTRY/Unit 1/1.1 Moles & Molar Mass.md",
+    "CHEMISTRY/Unit 1",
+    "CHEMISTRY/Unit 4",
+    "Welcome.md",
+    "CHEMISTRY"
+  ]
+}

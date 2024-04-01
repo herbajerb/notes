@@ -1,0 +1,10 @@
+ - When graphing [A] vs TIME, you would normally expect a form of exponential decay to be there
+ - if it followed y=mx+b, however, the equation would result in $$[A]_{t}=-kt+[A]_0$$0 order reaction
+ - if the graph of ln[A] vs TIME would be linear, the equation would be $$\ln[A]_t=-kt+\ln[A]_0$$
+ - deriving the Half Life formula
+	 - $$ln(1) = -kt_{-\frac{1}{2}}+ln(2)$$
+	 - $$0=-kt_{-\frac{1}{2}}+0.693$$
+	 - $$\frac{kt_{\frac{1}{2}}}{k}=\frac{0.693}{k}$$
+	 - $$t_{\frac{1}{2}}=\frac{0.693}{k}$$
+- 2nd order reaction: $$\frac{1}{[A]_t}=kt+\frac{1}{[A]_0}$$
+- Graph of $\huge{\frac{1}{[A]}}$ vs Time is linear

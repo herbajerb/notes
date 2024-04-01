@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "b5e59e454fa3256f",
+    "type": "split",
+    "children": [
+      {
+        "id": "34bdc2dce56a938e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d60e68e795c36378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Raw Notes/CHEMISTRY/Unit 4/4.4 Physical & Chemical Changes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c37d7a82f54b1d1e",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Notes/Raw Notes",
+                "staged": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba06e4d045fe5054",
+    "type": "split",
+    "children": [
+      {
+        "id": "66f8e5e0d1e3c5c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2017ecfd70670a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c6da3d2d723b366",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45026219033a7b0e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "032104080c5c3a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f7f55d7d253b1dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0facae17a9d12bc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48ed9c8ec4d0b3bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06012da04098394f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43c4f57aa85d89e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c7274050588b07a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c37d7a82f54b1d1e",
+  "lastOpenFiles": [
+    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.7 Periodic Trends.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.8 Valence Electrons  and Ionic Compounds.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 2/2.1 Types of Chemical Bonds.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 4/4.4 Physical & Chemical Changes.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.3 Elemental Composition of Pure Substances.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.4 Composition of Mixtures.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.5 Atomic Structure and Electron Configuration.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.6 Photoelectron Spectroscopy.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 4/4.2 Net Ionic Equations.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 2",
+    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.1 Moles & Molar Mass.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.2 Mass Spectroscopy of Elements.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 4/4.3 Representations of Reactions.md",
+    "Notes/Raw Notes/CHEMISTRY/Integrated Rate Law.md",
+    "Notes/Personal/TODO.md",
+    "home/Jason/git/notes/README.md",
+    "home/Jason/git/notes",
+    "home/Jason/git",
+    "home/Jason",
+    "home"
+  ]
+}
