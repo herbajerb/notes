@@ -8,30 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d60e68e795c36378",
+            "id": "c37d7a82f54b1d1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Raw Notes/CHEMISTRY/Unit 4/4.4 Physical & Chemical Changes.md",
+                "file": "Notes/Raw Notes/CHEMISTRY/Unit 1/1.8 Valence Electrons & Ionic Compounds.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c37d7a82f54b1d1e",
+            "id": "11cf57eef1f0af19",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Raw Notes",
-                "staged": false
+                "file": "Notes/Abbreviation Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b688df3082acef69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Raw Notes/CHEMISTRY/Unit 1/1.4 Composition of Mixtures.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "032104080c5c3a55",
@@ -97,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Raw Notes/CHEMISTRY/Unit 1/1.8 Valence Electrons & Ionic Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Raw Notes/CHEMISTRY/Unit 1/1.8 Valence Electrons & Ionic Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Raw Notes/CHEMISTRY/Unit 1/1.8 Valence Electrons & Ionic Compounds.md"
+              }
             }
           },
           {
@@ -165,21 +182,34 @@
   "active": "c37d7a82f54b1d1e",
   "lastOpenFiles": [
     "Notes/Raw Notes/CHEMISTRY/Unit 1/1.7 Periodic Trends.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.8 Valence Electrons  and Ionic Compounds.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 2/2.1 Types of Chemical Bonds.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 4/4.4 Physical & Chemical Changes.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.3 Elemental Composition of Pure Substances.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.4 Composition of Mixtures.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.5 Atomic Structure and Electron Configuration.md",
     "Notes/Raw Notes/CHEMISTRY/Unit 1/1.6 Photoelectron Spectroscopy.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 4/4.2 Net Ionic Equations.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 2",
-    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.1 Moles & Molar Mass.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.5 Atomic Structure & Electron Configuration.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.4 Composition of Mixtures.md",
+    "Notes/Abbreviation Guide.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.3 Elemental Composition of Pure Substances.md",
     "Notes/Raw Notes/CHEMISTRY/Unit 1/1.2 Mass Spectroscopy of Elements.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 4/4.3 Representations of Reactions.md",
-    "Notes/Raw Notes/CHEMISTRY/Integrated Rate Law.md",
-    "Notes/Personal/TODO.md",
-    "home/Jason/git/notes/README.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.1 Moles & Molar Mass.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 4/4.2 Net Ionic Equations.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.13 Beer-Lambert Law.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.12 Photoelectric Effect.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.11 Spectroscopy & Electromagnetic Spectrum.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.10 Solubility.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.9 Separation of Solutions & Mixtures Chromatography.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.8 Representations of Solutions.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.5 Kinetic Molecular Theory.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.7 Solutions & Mixtures.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.6 Deviation from Ideal Gas Law.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.4 Ideal Gas Law.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.3 Solids, Liquids & Gases.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.2 Properties of Solids.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.1 Intermolecular Forces.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 3",
+    "Notes/Raw Notes/CHEMISTRY/Unit 2/2.6 Resonance & Formal Charge.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 2/2.5 Lewis Diagrams.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 2/2.4 Structure of Metals and Alloys.md",
+    "Notes/Raw Notes/CHEMISTRY/Unit 2",
+    "Notes/Raw Notes/CHEMISTRY/Unit 2",
     "home/Jason/git/notes",
     "home/Jason/git",
     "home/Jason",

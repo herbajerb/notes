@@ -1,0 +1,15 @@
+---
+aliases:
+  - var.
+---
+- [[1.2 Mass Spectroscopy of Elements]] 
+	- I = Isotopes
+	- Mass = atomic mass
+- [[1.3 Elemental Composition of Pure Substances]]
+	- E = all elements in compound
+	- a = any element in E
+	- Mass = physical mass
+- [[1.5 Atomic Structure & Electron Configuration]]
+	- F = Attractive Force
+	- $q_n$ = Charge of particle n
+	- r = distance between two particles
