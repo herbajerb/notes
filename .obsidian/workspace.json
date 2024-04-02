@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "032104080c5c3a55",
@@ -179,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c37d7a82f54b1d1e",
+  "active": "3c7274050588b07a",
   "lastOpenFiles": [
     "Notes/Raw Notes/CHEMISTRY/Unit 1/1.7 Periodic Trends.md",
     "Notes/Raw Notes/CHEMISTRY/Unit 1/1.6 Photoelectron Spectroscopy.md",
