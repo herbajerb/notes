@@ -1,2 +1,0 @@
- - A solid that forms sometimes when reacting two [[Aqueous]] solutions
- - Insoluble in water by definition

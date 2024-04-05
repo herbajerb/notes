@@ -1,4 +1,0 @@
-- Don't include [[Spectator Ions]]
-- Only shows reaction for [[Precipitate]] forming
-- Shows [[Law of Conservation of Mass]] and [[Law of Conservation of Energy]]
-- Example: $$2(OH)^{-}_{aq} + Cu^{2+}_{aq}  \rightarrow Cu(OH)_{2(s)}$$

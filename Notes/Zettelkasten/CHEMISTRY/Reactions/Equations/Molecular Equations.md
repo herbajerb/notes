@@ -1,5 +1,0 @@
-- Type of [[Balanced Equations]]
-- Show all species participating in a reaction
-- Shows [[Law of Conservation of Mass]] and [[Law of Conservation of Energy]]
-- Shows [[State of Matter]]
-- Example: $$2NaOH_{(aq)} + CuSO_{4(aq)} \rightarrow Na_2SO_{4(aq)} + Cu(OH)_{2(s)}$$

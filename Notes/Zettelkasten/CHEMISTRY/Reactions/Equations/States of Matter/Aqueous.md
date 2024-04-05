@@ -1,3 +1,0 @@
-- Denoted by $X_{aq}$ 
-- This means that the substance is dissolved
-	- Most often, the substance is dissolved in water
