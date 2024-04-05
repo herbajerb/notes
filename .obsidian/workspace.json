@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Raw Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md",
+                "file": "Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Raw Notes/CHEMISTRY/Unit 1/1.4 Composition of Mixtures.md",
+                "file": "Notes/CHEMISTRY/Unit 1/1.4 Composition of Mixtures.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Raw Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md",
+                "file": "Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Raw Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md",
+                "file": "Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Raw Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md"
+                "file": "Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md"
               }
             }
           },
@@ -178,37 +178,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c7274050588b07a",
+  "active": "a2017ecfd70670a6",
   "lastOpenFiles": [
-    "Notes/Raw Notes/CHEMISTRY/Unit 2/2.6 Resonance & Formal Charge.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 2/2.5 Lewis Diagrams.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 2/2.4 Structure of Metals and Alloys.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 2/2.3 Structure of Ionic Solids.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 2/2.2 Intramolecular Force and Potential Energy.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.4 Composition of Mixtures.md",
+    "Notes/CHEMISTRY/Unit 2/2.6 Resonance & Formal Charge.md",
+    "Notes/CHEMISTRY/Unit 2/2.5 Lewis Diagrams.md",
+    "Notes/CHEMISTRY/Unit 2/2.4 Structure of Metals and Alloys.md",
+    "Notes/CHEMISTRY/Unit 2/2.3 Structure of Ionic Solids.md",
+    "Notes/CHEMISTRY/Unit 2/2.2 Intramolecular Force and Potential Energy.md",
+    "Notes/CHEMISTRY/Unit 1/1.4 Composition of Mixtures.md",
     "Notes/Abbreviation Guide.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 2/2.1 Types of Chemical Bonds.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.7 Periodic Trends.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.6 Photoelectron Spectroscopy.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.5 Atomic Structure & Electron Configuration.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.8 Valence Electrons & Ionic Compounds.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.3 Elemental Composition of Pure Substances.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.2 Mass Spectroscopy of Elements.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 1/1.1 Moles & Molar Mass.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 4/4.2 Net Ionic Equations.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.13 Beer-Lambert Law.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.12 Photoelectric Effect.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.11 Spectroscopy & Electromagnetic Spectrum.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.10 Solubility.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.9 Separation of Solutions & Mixtures Chromatography.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.8 Representations of Solutions.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.5 Kinetic Molecular Theory.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.7 Solutions & Mixtures.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.6 Deviation from Ideal Gas Law.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 3/3.4 Ideal Gas Law.md",
-    "Notes/Raw Notes/CHEMISTRY/Unit 3",
-    "Notes/Raw Notes/CHEMISTRY/Unit 2",
-    "Notes/Raw Notes/CHEMISTRY/Unit 2",
+    "Notes/CHEMISTRY/Unit 2/2.1 Types of Chemical Bonds.md",
+    "Notes/CHEMISTRY/Unit 1/1.7 Periodic Trends.md",
+    "Notes/CHEMISTRY/Unit 1/1.6 Photoelectron Spectroscopy.md",
+    "Notes/CHEMISTRY/Unit 1/1.5 Atomic Structure & Electron Configuration.md",
+    "Notes/CHEMISTRY/Unit 1/1.8 Valence Electrons & Ionic Compounds.md",
+    "Notes/CHEMISTRY/Unit 1/1.3 Elemental Composition of Pure Substances.md",
+    "Notes/CHEMISTRY/Unit 1/1.2 Mass Spectroscopy of Elements.md",
+    "Notes/CHEMISTRY/Unit 1/1.1 Moles & Molar Mass.md",
+    "Notes/CHEMISTRY/Unit 4/4.2 Net Ionic Equations.md",
+    "Notes/CHEMISTRY/Unit 3/3.13 Beer-Lambert Law.md",
+    "Notes/CHEMISTRY/Unit 3/3.12 Photoelectric Effect.md",
+    "Notes/CHEMISTRY/Unit 3/3.11 Spectroscopy & Electromagnetic Spectrum.md",
+    "Notes/CHEMISTRY/Unit 3/3.10 Solubility.md",
+    "Notes/CHEMISTRY/Unit 3/3.9 Separation of Solutions & Mixtures Chromatography.md",
+    "Notes/CHEMISTRY/Unit 3/3.8 Representations of Solutions.md",
+    "Notes/CHEMISTRY/Unit 3/3.5 Kinetic Molecular Theory.md",
+    "Notes/CHEMISTRY/Unit 3/3.7 Solutions & Mixtures.md",
+    "Notes/CHEMISTRY/Unit 3/3.6 Deviation from Ideal Gas Law.md",
+    "Notes/CHEMISTRY/Unit 3/3.4 Ideal Gas Law.md",
+    "Notes/CHEMISTRY/Unit 3",
+    "Notes/CHEMISTRY/Unit 2",
+    "Notes/CHEMISTRY/Unit 2",
     "home/Jason/git/notes",
     "home/Jason/git",
     "home/Jason",
