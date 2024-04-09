@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md",
+                "file": "Notes/CHEMISTRY/Unit 8/8.7 pH and pKa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e29be7b19d7efc9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/CHEMISTRY/Unit 8/8.10 Buffer Capacity.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md",
+                "file": "Notes/CHEMISTRY/Unit 8/8.10 Buffer Capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md",
+                "file": "Notes/CHEMISTRY/Unit 8/8.10 Buffer Capacity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md"
+                "file": "Notes/CHEMISTRY/Unit 8/8.10 Buffer Capacity.md"
               }
             }
           },
@@ -178,34 +191,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2017ecfd70670a6",
+  "active": "e29be7b19d7efc9b",
   "lastOpenFiles": [
+    "Notes/CHEMISTRY/Unit 8/8.9 Henderson-Hasselbalch Equation.md",
+    "Notes/CHEMISTRY/Unit 8/8.10 Buffer Capacity.md",
+    "Notes/CHEMISTRY/Unit 8/8.8 Properties of Buffers.md",
+    "Notes/CHEMISTRY/Integrated Rate Law.md",
+    "Notes/CHEMISTRY/Unit 4/4.3 Representations of Reactions.md",
+    "Notes/CHEMISTRY/Unit 8/8.7 pH and pKa.md",
+    "Notes/CHEMISTRY/Unit 8/8.6 Molecular Structure of Acids & Bases.md",
+    "Notes/CHEMISTRY/Unit 8/8.5 Acid-Base Titration.md",
+    "Notes/CHEMISTRY/Unit 8/8.4 Acid-Base Reactions and Buffers.md",
+    "Notes/CHEMISTRY/Unit 8/8.3 Weak Acid & Base Equilibria.md",
+    "Notes/CHEMISTRY/Unit 8/8.2 pH and pOH of Strong Acids & Bases.md",
+    "Notes/CHEMISTRY/Unit 8/8.1 Introduction to Acids & Bases.md",
+    "Notes/CHEMISTRY/Unit 3/3.1 Intermolecular Forces.md",
+    "Notes/CHEMISTRY/Unit 8",
+    "Notes/CHEMISTRY/Unit 1/1.4 Composition of Mixtures.md",
+    "Notes/CHEMISTRY/Unit 2/2.7 VSEPR & Bond Hybridization.md",
     "Notes/CHEMISTRY/Unit 2/2.6 Resonance & Formal Charge.md",
     "Notes/CHEMISTRY/Unit 2/2.5 Lewis Diagrams.md",
     "Notes/CHEMISTRY/Unit 2/2.4 Structure of Metals and Alloys.md",
     "Notes/CHEMISTRY/Unit 2/2.3 Structure of Ionic Solids.md",
     "Notes/CHEMISTRY/Unit 2/2.2 Intramolecular Force and Potential Energy.md",
-    "Notes/CHEMISTRY/Unit 1/1.4 Composition of Mixtures.md",
     "Notes/Abbreviation Guide.md",
     "Notes/CHEMISTRY/Unit 2/2.1 Types of Chemical Bonds.md",
     "Notes/CHEMISTRY/Unit 1/1.7 Periodic Trends.md",
     "Notes/CHEMISTRY/Unit 1/1.6 Photoelectron Spectroscopy.md",
     "Notes/CHEMISTRY/Unit 1/1.5 Atomic Structure & Electron Configuration.md",
     "Notes/CHEMISTRY/Unit 1/1.8 Valence Electrons & Ionic Compounds.md",
-    "Notes/CHEMISTRY/Unit 1/1.3 Elemental Composition of Pure Substances.md",
-    "Notes/CHEMISTRY/Unit 1/1.2 Mass Spectroscopy of Elements.md",
-    "Notes/CHEMISTRY/Unit 1/1.1 Moles & Molar Mass.md",
-    "Notes/CHEMISTRY/Unit 4/4.2 Net Ionic Equations.md",
-    "Notes/CHEMISTRY/Unit 3/3.13 Beer-Lambert Law.md",
-    "Notes/CHEMISTRY/Unit 3/3.12 Photoelectric Effect.md",
-    "Notes/CHEMISTRY/Unit 3/3.11 Spectroscopy & Electromagnetic Spectrum.md",
-    "Notes/CHEMISTRY/Unit 3/3.10 Solubility.md",
-    "Notes/CHEMISTRY/Unit 3/3.9 Separation of Solutions & Mixtures Chromatography.md",
-    "Notes/CHEMISTRY/Unit 3/3.8 Representations of Solutions.md",
-    "Notes/CHEMISTRY/Unit 3/3.5 Kinetic Molecular Theory.md",
-    "Notes/CHEMISTRY/Unit 3/3.7 Solutions & Mixtures.md",
-    "Notes/CHEMISTRY/Unit 3/3.6 Deviation from Ideal Gas Law.md",
-    "Notes/CHEMISTRY/Unit 3/3.4 Ideal Gas Law.md",
     "Notes/CHEMISTRY/Unit 3",
     "Notes/CHEMISTRY/Unit 2",
     "Notes/CHEMISTRY/Unit 2",
