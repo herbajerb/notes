@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/CHEMISTRY/Unit 8/8.10 Buffer Capacity.md",
+                "file": "Notes/CHEMISTRY/Unit 8/8.3 Weak Acid & Base Equilibria.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "032104080c5c3a55",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CHEMISTRY/Unit 8/8.10 Buffer Capacity.md",
+                "file": "Notes/CHEMISTRY/Unit 8/8.3 Weak Acid & Base Equilibria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/CHEMISTRY/Unit 8/8.10 Buffer Capacity.md",
+                "file": "Notes/CHEMISTRY/Unit 8/8.3 Weak Acid & Base Equilibria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CHEMISTRY/Unit 8/8.10 Buffer Capacity.md"
+                "file": "Notes/CHEMISTRY/Unit 8/8.3 Weak Acid & Base Equilibria.md"
               }
             }
           },
@@ -193,17 +194,18 @@
   },
   "active": "e29be7b19d7efc9b",
   "lastOpenFiles": [
+    "Notes/CHEMISTRY/Unit 8/8.2 pH and pOH of Strong Acids & Bases.md",
+    "Notes/CHEMISTRY/Unit 8/8.3 Weak Acid & Base Equilibria.md",
+    "Notes/CHEMISTRY/Unit 8/8.7 pH and pKa.md",
+    "README.md",
     "Notes/CHEMISTRY/Unit 8/8.9 Henderson-Hasselbalch Equation.md",
     "Notes/CHEMISTRY/Unit 8/8.10 Buffer Capacity.md",
     "Notes/CHEMISTRY/Unit 8/8.8 Properties of Buffers.md",
     "Notes/CHEMISTRY/Integrated Rate Law.md",
     "Notes/CHEMISTRY/Unit 4/4.3 Representations of Reactions.md",
-    "Notes/CHEMISTRY/Unit 8/8.7 pH and pKa.md",
     "Notes/CHEMISTRY/Unit 8/8.6 Molecular Structure of Acids & Bases.md",
     "Notes/CHEMISTRY/Unit 8/8.5 Acid-Base Titration.md",
     "Notes/CHEMISTRY/Unit 8/8.4 Acid-Base Reactions and Buffers.md",
-    "Notes/CHEMISTRY/Unit 8/8.3 Weak Acid & Base Equilibria.md",
-    "Notes/CHEMISTRY/Unit 8/8.2 pH and pOH of Strong Acids & Bases.md",
     "Notes/CHEMISTRY/Unit 8/8.1 Introduction to Acids & Bases.md",
     "Notes/CHEMISTRY/Unit 3/3.1 Intermolecular Forces.md",
     "Notes/CHEMISTRY/Unit 8",
@@ -219,7 +221,6 @@
     "Notes/CHEMISTRY/Unit 1/1.7 Periodic Trends.md",
     "Notes/CHEMISTRY/Unit 1/1.6 Photoelectron Spectroscopy.md",
     "Notes/CHEMISTRY/Unit 1/1.5 Atomic Structure & Electron Configuration.md",
-    "Notes/CHEMISTRY/Unit 1/1.8 Valence Electrons & Ionic Compounds.md",
     "Notes/CHEMISTRY/Unit 3",
     "Notes/CHEMISTRY/Unit 2",
     "Notes/CHEMISTRY/Unit 2",
